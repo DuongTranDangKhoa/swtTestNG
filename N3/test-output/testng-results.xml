@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-14T01:25:00Z" name="Suite" finished-at="2023-07-14T01:25:00Z" duration-ms="71">
+    <groups>
+    </groups>
+    <test started-at="2023-07-14T01:25:00Z" name="Tes1t" finished-at="2023-07-14T01:25:00Z" duration-ms="28">
+      <class name="com.swt.parallel.Test1">
+        <test-method signature="testMethod3()[pri:0, instance:com.swt.parallel.Test1@710c2b53]" started-at="2023-07-14T08:25:00Z" name="testMethod3" finished-at="2023-07-14T08:25:00Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method signature="testMethod1()[pri:0, instance:com.swt.parallel.Test1@710c2b53]" started-at="2023-07-14T08:25:00Z" name="testMethod1" finished-at="2023-07-14T08:25:00Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method signature="testMethod2()[pri:0, instance:com.swt.parallel.Test1@710c2b53]" started-at="2023-07-14T08:25:00Z" name="testMethod2" finished-at="2023-07-14T08:25:00Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method signature="testMethod4()[pri:0, instance:com.swt.parallel.Test1@710c2b53]" started-at="2023-07-14T08:25:00Z" name="testMethod4" finished-at="2023-07-14T08:25:00Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+      </class> <!-- com.swt.parallel.Test1 -->
+    </test> <!-- Tes1t -->
+    <test started-at="2023-07-14T01:25:00Z" name="Test2" finished-at="2023-07-14T01:25:00Z" duration-ms="7">
+      <class name="com.swt.parallel.Test2">
+        <test-method signature="testMethod5()[pri:0, instance:com.swt.parallel.Test2@533bda92]" started-at="2023-07-14T08:25:00Z" name="testMethod5" finished-at="2023-07-14T08:25:00Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod5 -->
+        <test-method signature="testMethod8()[pri:0, instance:com.swt.parallel.Test2@533bda92]" started-at="2023-07-14T08:25:00Z" name="testMethod8" finished-at="2023-07-14T08:25:00Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod8 -->
+        <test-method signature="testMethod7()[pri:0, instance:com.swt.parallel.Test2@533bda92]" started-at="2023-07-14T08:25:00Z" name="testMethod7" finished-at="2023-07-14T08:25:00Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod7 -->
+        <test-method signature="testMethod9()[pri:0, instance:com.swt.parallel.Test2@533bda92]" started-at="2023-07-14T08:25:00Z" name="testMethod9" finished-at="2023-07-14T08:25:00Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod9 -->
+        <test-method signature="testMethod6()[pri:0, instance:com.swt.parallel.Test2@533bda92]" started-at="2023-07-14T08:25:00Z" name="testMethod6" finished-at="2023-07-14T08:25:00Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod6 -->
+      </class> <!-- com.swt.parallel.Test2 -->
+    </test> <!-- Test2 -->
+    <test started-at="2023-07-14T01:25:00Z" name="Test" finished-at="2023-07-14T01:25:00Z" duration-ms="5">
+      <class name="com.swt.parallel.Test3">
+        <test-method signature="testMethod10()[pri:0, instance:com.swt.parallel.Test3@536f2a7e]" started-at="2023-07-14T08:25:00Z" name="testMethod10" finished-at="2023-07-14T08:25:00Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod10 -->
+        <test-method signature="testMethod12()[pri:0, instance:com.swt.parallel.Test3@536f2a7e]" started-at="2023-07-14T08:25:00Z" name="testMethod12" finished-at="2023-07-14T08:25:00Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod12 -->
+        <test-method signature="testMethod11()[pri:0, instance:com.swt.parallel.Test3@536f2a7e]" started-at="2023-07-14T08:25:00Z" name="testMethod11" finished-at="2023-07-14T08:25:00Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod11 -->
+        <test-method signature="testMethod13()[pri:0, instance:com.swt.parallel.Test3@536f2a7e]" started-at="2023-07-14T08:25:00Z" name="testMethod13" finished-at="2023-07-14T08:25:00Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod13 -->
+      </class> <!-- com.swt.parallel.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

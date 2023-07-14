@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Suite]">
+  <test parallel="tests" name="TestSelenium(failed)">
+    <classes>
+      <class name="com.swt.selenium.TestSelenium">
+        <methods>
+          <include name="testLogin"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.swt.selenium.TestSelenium -->
+    </classes>
+  </test> <!-- TestSelenium(failed) -->
+</suite> <!-- Failed suite [Suite] -->
